@@ -2,9 +2,11 @@
 
 Pipeline de données ETL/ELT — du CSV au Data Warehouse moderne.
 # PRINCIPE 
--EXTRAIRE: c'est le scraping ,cette etape a pour objectif d'aller chercher des données sur internet a l'aides des API ou dans une base de donnée . les données extaire sont desordonne et de sont pas uniforme.
--TRANSFORMER: c'est le netoyage ,elle apour but de suprimer les chanp inutile,remplacer les valeurs manquantes par des zero
--CHARGER: mettres les donne a dispositionde l'equipe de data analyste/scientist pour l'analyse sous forme de fichier csv ou dans un data wherehose.
+- **EXTRAIRE** : c'est le scraping. Cette étape a pour objectif d'aller chercher des données sur internet à l'aide des API ou dans une base de données. Les données extraites sont désordonnées et ne sont pas uniformes.
+
+- **TRANSFORMER** : c'est le nettoyage. Elle a pour but de supprimer les champs inutiles, remplacer les valeurs manquantes par des zéros.
+
+- **CHARGER** : mettre les données à disposition de l'équipe Data Analyst/Scientist pour l'analyse, sous forme de fichier CSV ou dans un Data Warehouse.
 
 ---
 
@@ -22,7 +24,7 @@ Pipeline de données ETL/ELT — du CSV au Data Warehouse moderne.
 
 ## 🧠 Compétences acquises
 
-| Compétence | Ce que je sais faire | Ce qu'un recruteur comprend |
+| Compétence | Ce que je sais faire | Valeur professionnelle |
 |---|---|---|
 | **Ingestion de données** | Lire et charger des fichiers CSV, JSON dans une base de données | Je sais collecter des données brutes depuis différentes sources |
 | **Connexion API** | Appeler une API REST et stocker les données récupérées | Je sais automatiser la collecte de données depuis des services externes |
